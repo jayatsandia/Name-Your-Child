@@ -2,6 +2,8 @@
 
 Simple python script that uses U.S. name data to determine polularity of names. You can also search for certain name patterns, likelihoods, etc. This is good for highly analytical soon-to-be-parents. 
 
+Name data is from the [SSA](https://www.ssa.gov/oact/babynames/limits.html). 
+
 #### Example output
 
 ```
